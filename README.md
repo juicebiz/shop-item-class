@@ -1,3 +1,3 @@
 # Demo
 
-https://juicebiz.github.io/shop-item-func/
+https://juicebiz.github.io/shop-item-class/
